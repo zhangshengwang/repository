@@ -1,1 +1,1 @@
-fire file full
+fire
